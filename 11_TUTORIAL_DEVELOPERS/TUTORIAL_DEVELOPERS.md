@@ -1,0 +1,25 @@
+# Tutorial — Developers — CIRCULAR_ECONOMY_TOOLS
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** CIRCULAR_ECONOMY_TOOLS | Category: WASTE_MANAGEMENT
+**Upstream:** https://github.com/nicedoc/circular-economy-tools (MIT)
+
+## Overview
+
+This document covers tutorial — developers for the Anticloud integration of CIRCULAR_ECONOMY_TOOLS.
+
+Circular economy analysis tools
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into CIRCULAR_ECONOMY_TOOLS to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
